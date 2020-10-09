@@ -1,13 +1,7 @@
 <style lang="stylus" scoped>
-    @import '~@/assets/styles/variables.styl'//在css里面引入其他的css,用~@
-    // .border-bottom
-    //     &:before
-    //         border-color #ccc
-    //     &:after
-    //         border-color #ccc 
+    @import '~@/assets/styles/variables.styl'//在css里面引入其他的css,用~@ 
     .list
         width 100%
-        // height 100%
         position absolute
         overflow hidden
         top 95px

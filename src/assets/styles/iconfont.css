@@ -1,0 +1,18 @@
+@font-face {font-family: "iconfont";
+  src: url('./font/iconfont.eot?t=1597926723053'); /* IE9 */
+  src: url('./font/iconfont.eot?t=1597926723053#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPwAAsAAAAACDgAAAOjAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDKgqDXIMYATYCJAMUCwwABCAFhG0HTBsgB8gOJQUKiRwFBkBBPEDrnv8zM7vXj0CH3CB3JUg/dDiDTe3Oa/eVpVtl324ne5AMPjIvk1nAB5ewqtvqrErl+Y97x3+Jt55lucy1qE9dgHFAAe2NbZAuwALJPQfircs8TkBFR+FspheW1wNnGWNcQNiqSBxwTulkNcVBSVAoWZoJl+VK8Uy8j0v+98MfhoYSUZ4YJ81cXyCC7J9Dfx6WDtcPW5omHR7PAm4VCf0BGWFzqW0tuzDWn52KkmlvNKBkWiJjJfr/PKxep9Ghgr3ISnScKOv/54UCo7AGJiOe8XN3m0nk5/68MvlQaCTIh0FwH4U5qCDvBF4zVN3H7BYksUVzb5tmNbxzs7DPZ/Gg+O6bkV99Nffe47lnHvbPj9xfdPbSp2dHnn9+X1182+fgycNPeh+4sK3xwpX29tc+jvA5f72Tw/VPlUHxwFgftGXxypGWeOt4K2nbzltrvnk8/8mTBY8ezXv4MOAkOUOy8RKrtu66fbNFw5btN2617PI6+7HD2Pbm4oE7fVviQ7t7bdtfdfyyaU+fXp8SVyHh3WS3kZNFtb5NBfPtS+rq/8Qmux6U+3/oOsR4dMj79q3fT/EJjgn2yf7AzdV3+5b+i393ngu/xf/S392Er+m9fHtjdt/VC7ta/mixy5suX7l17+DP4Pvqg/Tll/QwHWEkD8CJOWAj/eGkNbsbXyRHvMpywKXZEK+h9vyYnWFVN/qzK737gA03frI+uA2/Z36Fz4t/m+8U3mk7WF8FuwHUT6b/aQZLHYs/07HR15Nhlw0A6U3c91t/Y+uA5/+vaJT+T6magR+3k3V462MZ6Mf/N/zW/J/Ib9mQqUJDn2dyvc2T7bmxiQwRFdPIz0vR1OtxHC2A2BKUeD4gKuoASUl3JCP6Q65qOBSUTIKKfopWVzVD2QlZGX1NEwgaOw5RQ58haWwdyYhXkGvpKxQ0Dgkq5ge/Lat6hk2ueRRxDImQ74eKQKzYMjLXoLgWSYaZo0mhT2lEVFeCMCYyOpssQlZEx5ih90ixjGGIKbHAQnIaMpsJ1ChRkcAiZca01KgoXPakSIFYgKtpKITDICKI1w9SCAgr7LZmXHOfr4VIDGYcWkOqsDZCKJ3SORQjUnQLpEhmbUW6lnN0PSSxGAaDMIqwgAqJBTGbMQLSygepEAETSe4R0aSKoprhtrLI+RWWZ9wGFcZ2eYghhSzkoaCw3dAUzuqI7Z6yoTjqxNAN4qRmo4wYAAAA') format('woff2'),
+  url('./font/iconfont.woff?t=1597926723053') format('woff'),
+  url('./font/iconfont.ttf?t=1597926723053') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./font/iconfont.svg?t=1597926723053#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+

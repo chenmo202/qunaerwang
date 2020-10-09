@@ -1,0 +1,23 @@
+.DS_Store
+node_modules
+/dist
+static/mock //不会提交本地git仓库里面，也不会提交到线上
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

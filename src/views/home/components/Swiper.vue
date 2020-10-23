@@ -38,7 +38,6 @@
                 <img v-lazy="item.imgUrl" class="swipe_img"/>
             </van-swipe-item>
         </van-swipe>
-        <div>{{obj.abbb}}</div>
     </div>
 </template>
 

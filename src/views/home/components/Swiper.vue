@@ -19,7 +19,6 @@
     >>>.van-swipe__indicator {
         width: 8px;
         height: 8px;
-        // border-radius: 100%;
     }
 
     >>>.van-swipe__indicators {

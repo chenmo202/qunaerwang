@@ -21,6 +21,12 @@ Vue.use(VueRouter)
       name: 'Detail',
       component: () => import(/* webpackChunkName: "about" */ '../views/detail/Detail.vue')
     },
+    {
+      path:'/search',
+      name:'Search',
+      component: () => import('../views/search/Search.vue')
+
+    }
     // {
     //   path: '/about',
     //   name: 'About',

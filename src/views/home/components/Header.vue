@@ -37,7 +37,7 @@
       <div class="headrer-left">
           <div class="iconfont back-icon">&#xe624;</div>
       </div>
-      <div class="headrer-input">
+      <div class="headrer-input" @click="search">
           <span class="iconfont search">&#xe632;</span>
           输入城市/景点/游玩主体
       </div>
@@ -54,6 +54,11 @@
 export default {
     props:{
         city:String
+    },
+    methods:{
+        search(){
+            this.$router.push({path:'/Search'})
+        }
     }
 
 }
